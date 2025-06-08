@@ -1,4 +1,4 @@
-## n8n AI Automation Project
+## AI Automation Project — n8n 
 
 This n8n project demonstrates two intelligent automation workflows powered by OpenAI, Gmail API, and Google Drive integration.
 
@@ -28,8 +28,8 @@ Phase II
 
 **Results:**
 
-![Document Upload](images/image-5.png)  
-![Telegram Summary](images/image-2.png)
+<img src="images/image-5.png" alt="Document Upload" width="400"/>
+<img src="images/image-2.png" alt="Telegram Summary" width="400"/>
 
 ---
 
@@ -51,8 +51,8 @@ An intelligent text-to-email assistant powered by OpenAI.
 
 **Results:**
 
-![Text via Telegram](images/image.png)  
-![Email Generation](images/image-1.png)
+<img src="images/image.png" alt="Text via Telegram" width="400"/>
+<img src="images/image-1.png" alt="Email Generation" width="400"/>
 
 ---
 
